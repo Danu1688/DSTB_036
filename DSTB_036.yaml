@@ -1,7 +1,7 @@
 proxies:
 - name: Ipung5Ambawang_LiveDO_1
   type: trojan
-  server: 104.21.8.121
+  server: circles.asia
   port: 443
   password: a22bc62e-7e6a-42b5-8351-80a388dc70c5
   udp: true
@@ -14,7 +14,7 @@ proxies:
       Host: sgdo2.myserver-prem.xyz
 - name: TrojanWsSvr-Live_1
   type: trojan
-  server: 104.18.1.196
+  server: circles.asia
   port: 443
   password: 9766b64f-2d18-464b-8be5-02231f0e0c44
   udp: true
@@ -27,7 +27,7 @@ proxies:
       Host: sgdo3.dstb.cloud
 - name: Danu35_LiveNusa36a
   type: trojan
-  server: 104.21.8.121
+  server: circles.asia
   port: 443
   password: 8e5aa4f5-331f-41c7-869e-b758be486081
   udp: true
