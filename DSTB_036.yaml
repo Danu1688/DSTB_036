@@ -1,17 +1,17 @@
 proxies:
-- name: DanuDstbSvr1_LiveDO_1
+- name: IpungAmbawang_LiveNusa_1
   type: trojan
   server: beacon.liveon.id
   port: 443
-  password: 8043a1f2-43be-4e9c-b493-e3afdec54da8
+  password: d56ea451-2f9c-4936-ad97-ef6f534595ca
   udp: true
-  sni: danu529.foryou-ssh.my.id
+  sni: vpna4mvbhv.scpotato.me
   skip-cert-verify: true
   network: ws
   ws-opts:
-    path: /trojan-ws
+    path: /trojan
     headers:
-      Host: danu529.foryou-ssh.my.id
+      Host: vpna4mvbhv.scpotato.me
 - name: Ipung5Ambawang_LiveDO_1
   type: trojan
   server: circles.asia
